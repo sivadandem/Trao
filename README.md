@@ -305,32 +305,12 @@ Trao/
 
 ---
 
-## ⚠️ Known Limitations
-
-1. **Free Tier Latency** — Render free tier may have cold start delays of 30–60 seconds
-2. **Gemini Rate Limits** — Subject to Google AI API quotas (20 trips/hour enforced)
-3. **No Real-time Updates** — Polling-based, not WebSocket
-4. **Single Currency** — Budget estimates in USD only
-5. **No Payment** — No subscription/billing integration
-
----
-
 ## 🔮 Future Improvements
 
 - [ ] Real-time collaboration with WebSockets
 - [ ] Google Maps integration for visual itinerary
 - [ ] PDF export of itinerary
-- [ ] Multi-currency budget support
-- [ ] Social sharing of trips
-- [ ] Mobile app (React Native)
-- [ ] Integration with booking APIs (hotels, flights)
-- [ ] AI chatbot for trip modifications
-- [ ] Offline mode with PWA
-- [ ] Multi-language support
-- [ ] SMTP/Nodemailer email integration for production password resets (currently logged to backend console)
+
 
 ---
 
-## 📄 License
-
-MIT © 2024 Trao AI Travel Planner
