@@ -390,7 +390,7 @@ export default function LandingPage() {
             <span style={{ fontSize: '16px', fontWeight: '700', color: 'var(--text-secondary)' }}>Trao</span>
           </div>
           <p style={{ fontSize: '13px', color: 'var(--text-muted)' }}>
-            © 2024 Trao AI Travel Planner. Built with ❤️ and Google Gemini.
+            © 2026 Trao AI Travel Planner. Built by Siva Dandem.
           </p>
         </div>
       </footer>
