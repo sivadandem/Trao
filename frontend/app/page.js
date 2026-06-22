@@ -201,7 +201,7 @@ export default function LandingPage() {
               marginTop: '40px',
             }}
           >
-            {['No credit card needed', 'AI-powered', 'Multi-user secure'].map((text) => (
+            {['AI-powered', 'Multi-user secure'].map((text) => (
               <div key={text} style={{ display: 'flex', alignItems: 'center', gap: '6px', fontSize: '13px', color: 'var(--text-muted)' }}>
                 <CheckCircle size={14} color="#4ade80" />
                 {text}
